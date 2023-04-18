@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-04-17T10:57:07 IST" name="ParallelExecution" finished-at="2023-04-17T10:57:49 IST" duration-ms="42173">
+  <suite started-at="2023-04-17T13:26:16 IST" name="ParallelExecution" finished-at="2023-04-17T13:26:57 IST" duration-ms="40754">
     <groups>
     </groups>
-    <test started-at="2023-04-17T10:57:07 IST" name="EdgeTest" finished-at="2023-04-17T10:57:40 IST" duration-ms="33609">
+    <test started-at="2023-04-17T13:26:16 IST" name="EdgeTest" finished-at="2023-04-17T13:26:51 IST" duration-ms="34735">
       <class name="sel1.CrossBr">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:sel1.CrossBr@52bf72b5]" started-at="2023-04-17T10:57:07 IST" name="setup" finished-at="2023-04-17T10:57:14 IST" duration-ms="7037" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:sel1.CrossBr@52bf72b5]" started-at="2023-04-17T13:26:16 IST" name="setup" finished-at="2023-04-17T13:26:24 IST" duration-ms="7773" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="petStoreTC1()[pri:0, instance:sel1.CrossBr@52bf72b5]" started-at="2023-04-17T10:57:14 IST" name="petStoreTC1" finished-at="2023-04-17T10:57:40 IST" duration-ms="26468" status="PASS">
+        <test-method signature="petStoreTC1()[pri:0, instance:sel1.CrossBr@52bf72b5]" started-at="2023-04-17T13:26:24 IST" name="petStoreTC1" finished-at="2023-04-17T13:26:51 IST" duration-ms="26882" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- petStoreTC1 -->
       </class> <!-- sel1.CrossBr -->
     </test> <!-- EdgeTest -->
-    <test started-at="2023-04-17T10:57:07 IST" name="ChromeTest" finished-at="2023-04-17T10:57:40 IST" duration-ms="33917">
+    <test started-at="2023-04-17T13:26:16 IST" name="ChromeTest" finished-at="2023-04-17T13:26:53 IST" duration-ms="37255">
       <class name="sel1.CrossBr">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:sel1.CrossBr@6b81ce95]" started-at="2023-04-17T10:57:07 IST" name="setup" finished-at="2023-04-17T10:57:14 IST" duration-ms="6997" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:sel1.CrossBr@6b81ce95]" started-at="2023-04-17T13:26:16 IST" name="setup" finished-at="2023-04-17T13:26:26 IST" duration-ms="10191" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -37,15 +37,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="petStoreTC1()[pri:0, instance:sel1.CrossBr@6b81ce95]" started-at="2023-04-17T10:57:14 IST" name="petStoreTC1" finished-at="2023-04-17T10:57:40 IST" duration-ms="26800" status="PASS">
+        <test-method signature="petStoreTC1()[pri:0, instance:sel1.CrossBr@6b81ce95]" started-at="2023-04-17T13:26:26 IST" name="petStoreTC1" finished-at="2023-04-17T13:26:53 IST" duration-ms="27041" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- petStoreTC1 -->
       </class> <!-- sel1.CrossBr -->
     </test> <!-- ChromeTest -->
-    <test started-at="2023-04-17T10:57:07 IST" name="FirefoxTest" finished-at="2023-04-17T10:57:49 IST" duration-ms="42172">
+    <test started-at="2023-04-17T13:26:16 IST" name="FirefoxTest" finished-at="2023-04-17T13:26:57 IST" duration-ms="40754">
       <class name="sel1.CrossBr">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:sel1.CrossBr@59fd97a8]" started-at="2023-04-17T10:57:07 IST" name="setup" finished-at="2023-04-17T10:57:23 IST" duration-ms="16965" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:sel1.CrossBr@59fd97a8]" started-at="2023-04-17T13:26:16 IST" name="setup" finished-at="2023-04-17T13:26:31 IST" duration-ms="15176" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -56,7 +56,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="petStoreTC1()[pri:0, instance:sel1.CrossBr@59fd97a8]" started-at="2023-04-17T10:57:23 IST" name="petStoreTC1" finished-at="2023-04-17T10:57:49 IST" duration-ms="25187" status="PASS">
+        <test-method signature="petStoreTC1()[pri:0, instance:sel1.CrossBr@59fd97a8]" started-at="2023-04-17T13:26:31 IST" name="petStoreTC1" finished-at="2023-04-17T13:26:57 IST" duration-ms="25554" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- petStoreTC1 -->
